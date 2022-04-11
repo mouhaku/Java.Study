@@ -2,6 +2,7 @@
 https://onlinejudge.u-aizu.ac.jp/challenges/sources/JOI/Prelim/0630
  */
 package io.github.mouhaku.day03;
+
 import java.util.Scanner;
 
 public class Demo04 {
@@ -18,16 +19,11 @@ public class Demo04 {
         int e = sc.nextInt();
         int s;
 
-        if(a < 0)
-        {
+        if (a < 0) {
             s = (-a) * c + d + b * e;
-        }
-        else if(a == 0)
-        {
+        } else if (a == 0) {
             s = c * d + b * e;
-        }
-        else
-        {
+        } else {
             s = (b - a) * e;
         }
         System.out.println(s);

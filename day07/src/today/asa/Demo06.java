@@ -2,7 +2,6 @@
 https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/9/ITP1_9_B
  */
 package today.asa;
-import java.io.StringBufferInputStream;
 import java.util.Scanner;
 
 public class Demo06 {

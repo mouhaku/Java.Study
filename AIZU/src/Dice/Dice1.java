@@ -1,6 +1,6 @@
 package Dice;
 
-public class Dice {
+public class Dice1 {
     private int[] mynumber;
     private char[] mydirection;
 

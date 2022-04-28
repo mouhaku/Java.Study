@@ -1,7 +1,7 @@
 /*
 https://onlinejudge.u-aizu.ac.jp/challenges/sources/PCK/Prelim/0317
  */
-package question;
+package challenge;
 
 import java.util.Scanner;
 

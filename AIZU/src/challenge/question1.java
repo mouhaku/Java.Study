@@ -1,7 +1,7 @@
 /*
 https://onlinejudge.u-aizu.ac.jp/challenges/sources/JOI/Prelim/0582
  */
-package question;
+package challenge;
 
 import java.util.Scanner;
 

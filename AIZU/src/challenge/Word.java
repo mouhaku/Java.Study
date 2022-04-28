@@ -1,7 +1,7 @@
 /*
 https://onlinejudge.u-aizu.ac.jp/problems/0335
  */
-package question;
+package challenge;
 
 import java.util.Scanner;
 

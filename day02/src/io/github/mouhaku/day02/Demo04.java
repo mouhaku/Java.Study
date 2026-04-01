@@ -29,5 +29,6 @@ public class Demo04 {
             if(op == '?')
                 break;
         }
+        sc.close();
     }
 }

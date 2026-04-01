@@ -16,5 +16,6 @@ public class Demo02 {
         double S = pi * r * r;
         double L = 2 * pi * r;
         System.out.println(String.format("%.6f", S) + " " + String.format("%.6f",L));
+        sc.close();
     }
 }

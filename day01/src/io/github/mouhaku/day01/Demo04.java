@@ -29,5 +29,6 @@ public class Demo04
             System.out.println(a + " " + b);
 
         }
+        sc.close();
     }
 }

@@ -20,5 +20,6 @@ public class Demo03
             System.out.println("Case " + i + ": " + a);
             i++;
         }
+        sc.close();
     }
 }

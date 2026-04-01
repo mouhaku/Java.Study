@@ -23,6 +23,7 @@ public class Demo05
                 i++;
         }
         System.out.println(i);
+        sc.close();
     }
 }
 

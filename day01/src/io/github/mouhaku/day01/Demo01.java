@@ -22,5 +22,6 @@ public class Demo01 {
         {
             System.out.println("No");
         }
+        sc.close();
     }
 }

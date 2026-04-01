@@ -25,5 +25,6 @@ public class Demo06 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

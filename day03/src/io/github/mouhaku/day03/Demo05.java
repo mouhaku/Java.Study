@@ -63,5 +63,6 @@ public class Demo05 {
                 System.out.println("D " + (i + 1));
             }
         }
+        sc.close();
     }
 }

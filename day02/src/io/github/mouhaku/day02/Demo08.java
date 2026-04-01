@@ -34,5 +34,6 @@ public class Demo08 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

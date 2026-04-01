@@ -44,6 +44,6 @@ public class Demo07 {
             }
         System.out.println();
         }
-
+        sc.close();    
     }
 }

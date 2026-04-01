@@ -31,5 +31,6 @@ public class Demo03 {
             System.out.print(rts[i]);
         }
         System.out.println();
+        sc.close();
     }
 }

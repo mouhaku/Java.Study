@@ -27,5 +27,6 @@ public class Demo04 {
             s = (b - a) * e;
         }
         System.out.println(s);
+        sc.close();
     }
 }

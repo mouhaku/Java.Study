@@ -17,6 +17,7 @@ public class Demo01 {
         int r = a % b;
         double f = (double) a / (double) b;
         System.out.println(d + " " + r + " " + String.format("%.8f", f));
+        sc.close();
     }
 }
 

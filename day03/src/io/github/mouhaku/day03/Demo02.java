@@ -4,7 +4,6 @@ https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/5/ITP1_5_D
 package io.github.mouhaku.day03;
 
 import java.util.Scanner;
-import java.lang.*;
 
 
 public class Demo02 {
@@ -21,6 +20,7 @@ public class Demo02 {
                 System.out.println(i);
             }
         }
+        sc.close();
     }
 }
 

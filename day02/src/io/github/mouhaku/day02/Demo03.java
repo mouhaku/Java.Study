@@ -33,6 +33,7 @@ public class Demo03 {
             if(op == '?')
                 break;
         }
+        sc.close();
     }
 }
 

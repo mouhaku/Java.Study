@@ -39,5 +39,6 @@ public class Demo05 {
             z += str[i];
         }
         System.out.println(z);
+        sc.close();
     }
 }

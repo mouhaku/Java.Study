@@ -32,5 +32,6 @@ public class Demo01 {
             i++;
         }
         System.out.println();
+        sc.close();
     }
 }

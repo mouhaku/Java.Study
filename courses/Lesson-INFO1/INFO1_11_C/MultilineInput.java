@@ -1,5 +1,8 @@
 /**
+<<<<<<< HEAD
  * https://onlinejudge.u-aizu.ac.jp/courses/lesson/9/INFO1/11/INFO1_11_C
+=======
+>>>>>>> 7d7bd2c2d8905cf62b1349872fba65a45cdcea58
  * 入力
  *1行目に整数Nが与えられる。 続いてN行の入力が与えられる。各行は、空白区切りの１つ以上の文字列で構成される。ただし、空白は連続で現れる場合がある。
  *
